@@ -6,7 +6,7 @@ This tool allows you to search PubMed using any query and extract information ab
 #Set up Instructions
 1. git clone (github repository link)
    
-  cd python-Assignment
+    cd python-Assignment
 ________________________________________________________
 #Install Dependencies
 
