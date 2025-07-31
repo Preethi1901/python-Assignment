@@ -1,15 +1,6 @@
-PubMed Pharma Paper Fetcher
+--PubMed Pharma Paper Fetcher--
 
 This tool allows you to search PubMed using any query and extract information about research papers with authors affiliated with pharmaceutical or biotech companies.
-
-project sructure
-new_project/
-│
-├── get_links.py #logic to search PubMed and parse results
-├── main.py 
-├── init.py # Package init file
-|__filter.py  #contains extract_info and extract_mail filters
-└── output/  #  where CSVs are saved
 
 
 #Set up Instructions
