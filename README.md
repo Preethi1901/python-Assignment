@@ -29,9 +29,13 @@ Example query-  poetry run get-papers-list "cancer immunotherapy" -f cancer_pape
 _____________________________________________________________
 Tools / Libraries used
 1. Requests -for HTTP requests	(https://docs.python-requests.org/)
+
 2. Pandas -for CSV/Datafreame handling  (	https://pandas.pydata.org/)
+
 3.Poetry - Dependency management & Packaging (	https://python-poetry.org/)
+
 4.Entrez API-  pubMed API for  biomedical literature
+
 5.BeautifulSoup4- for XML Parsing
 
 
